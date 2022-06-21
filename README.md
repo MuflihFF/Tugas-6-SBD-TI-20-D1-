@@ -23,4 +23,4 @@
 
 crontab –e
 
-0 0 * * 7myqldump -u root -p muflihff_312010105>muflihff_312010105_backup.sql
+0 0 * * 7myqldump -u root -p muflihff_312010105>mahasiswa_312010105_backup.sql
