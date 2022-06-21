@@ -24,5 +24,3 @@
 crontab –e
 
 0 0 * * 7myqldump -u root -p muflihff_312010105>muflihff_312010105_backup.sql
-
-![7](https://user-images.githubusercontent.com/101880025/172165242-c75d4ebf-054b-4ece-94cf-5b92a1eea78c.png)
